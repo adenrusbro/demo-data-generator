@@ -42,4 +42,3 @@ Copyright (C) 2017 Robert Down
 
 The OpenEMR Demo Data Generator tool is licensed under the GNU GPL V3
 license.
-
